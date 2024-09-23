@@ -1,0 +1,1 @@
+This project uses the perceptron model to classify diabetes within a subclass of South American women
